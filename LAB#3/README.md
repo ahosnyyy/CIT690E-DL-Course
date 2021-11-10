@@ -36,4 +36,4 @@ This repository contains the code for visualization of various deep learning opt
 
 |        2D Convex Surface        |        2D Non-Convex Surface        |    3D Surface with Saddle Point     |
 | :-----------------------------: | :---------------------------------: | :---------------------------------: |
-| ![](Images/convex_adadelta.gif) | ![](Images/non_convex_adadelta.gif) | ![](Images/3d_surface_adadelta.gif) |
+| ![](Images/convex_nesterov.gif) | ![](Images/non_convex_nesterov.gif) | ![](Images/3d_surface_nesterov.gif) |
